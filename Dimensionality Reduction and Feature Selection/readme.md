@@ -1,5 +1,7 @@
 # Carrefour Market Analysis using Dimensionality Reduction and Feature Selection
 
+The complete project can be found here https://rpubs.com/CTOROMO/914048
+
 # 1. Project Description
 ## a) Specifying the Question
 

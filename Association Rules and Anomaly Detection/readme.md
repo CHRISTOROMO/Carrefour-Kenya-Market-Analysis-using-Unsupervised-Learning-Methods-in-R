@@ -1,5 +1,7 @@
 # Carrefour Market Analysis using Association Rules and Anomaly Detection
 
+The complete project can be found here https://rpubs.com/CTOROMO/914046
+
 # 1. Project Description
 ## a) Specifying the Question
 
@@ -25,7 +27,6 @@ Carrefour is a French multinational retail corporation headquartered in Massy, F
 8. Challenging the solution
 9. Conclusion and Recommendation
 10. Follow up questions
-
 
 ## e) Data Relevance
 
